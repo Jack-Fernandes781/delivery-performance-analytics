@@ -1,8 +1,8 @@
 # Delivery Performance & Customer Experience Analytics
 
-A portfolio project for junior data-analyst roles: turn order, shipping, payment, and review records into a reliable delivery-performance dataset and an operational dashboard.
+This portfolio project turn order, shipping, payment, and review records into a reliable delivery-performance dataset and an operational dashboard.
 
-This project deliberately complements the diabetes-prevalence analysis in `my_data_project`. That project demonstrates public-health research, Python, and Tableau. This one adds the skills often requested in entry-level analyst job descriptions: SQL reporting, data validation, KPI design, and operational decision support. The delivery focus also makes practical use of your transportation and logistics experience.
+This project adds the skills often requested in entry-level analyst job descriptions: SQL reporting, data validation, KPI design, and operational decision support. The delivery focus also makes practical use of your transportation and logistics experience.
 
 ![Delivery performance dashboard](outputs/00_delivery_performance_dashboard.png)
 
