@@ -1,0 +1,13 @@
+# Local Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local data and generated analysis extracts
+data/raw/*.csv
+data/processed/*.csv
+
+# Notebook checkpoints and OS files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
